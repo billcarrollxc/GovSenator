@@ -1,0 +1,61 @@
+.jumbotron {
+	background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/05/American-Flag-Background-Images-620x413.jpg");
+background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 350px;
+}
+
+#title {
+	background-color:  #e6ffe6;
+	opacity: 0.75;
+	margin-top: 100px;
+}
+
+.content {
+	font-size: 15pt;
+}
+
+figcaption {
+    margin: 10px 0 0 0;
+    font-variant: small-caps;
+    font-family: Arial;
+		font-size: 12pt;
+    color: #bb3333;
+}
+
+h4 {
+	font-size: 18pt;
+}
+
+h2 {
+	font-size: 22pt;
+}
+
+div.gallery {
+	border: 1px solid #d6d6c2;
+	margin: 5px;
+	border-radius: 15px;
+	float: left;
+	width: 300px;
+}
+
+div.gallery:hover {
+	border: 1px solid black;
+}
+
+div.gallery img {
+	width: 100%;
+	height: auto;
+	border-radius: 15px 15px 0 0;
+}
+
+div.desc {
+	padding: 15px;
+	text-align: center;
+}
+
+.tweets img{
+	width: 500px;
+	height: auto;
+}
